@@ -43,12 +43,13 @@ Think of coding standards as a set of rules, techniques, and best practices to c
   <summary>
     <a href="">3. Flutter Best Practices</a>
   </summary>
-  #### [Add a linting rules firstly when starting app from scratch](#lint-rules)
-  #### [Use const wherever possible](#use-const)
-  #### [Create separate class to define the colors](#separate-color-class)
-  #### [Define theme for your app](#define-theme)
-  #### [Don't use functional widgets](#avoid-functional-widgets)
-  #### [Avoid print](#avoid-print)
+  
+- [Add a linting rules firstly when starting app from scratch](#lint-rules)
+- [Use const wherever possible](#use-const)
+- [Create separate class to define the colors](#separate-color-class)
+- [Define theme for your app](#define-theme)
+- [Don't use functional widgets](#avoid-functional-widgets)
+- [Avoid print](#avoid-print)
 </details>
 <details>
   <summary>
