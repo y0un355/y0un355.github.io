@@ -29,14 +29,14 @@ Think of coding standards as a set of rules, techniques, and best practices to c
     <a href="#2-reactjs-best-practices">2. ReactJS Best Practices</a>
   </summary>
 
-- [2.1 Keep component creation to a minimum](#2-1-Keep-component-creation-to-a-minimum)</br>
-- [2.2 Use a linter](#-12-layer-your-components-keep-the-web-layer-within-its-boundaries)</br>
-- [2.3 The code should be testable](#2-3-The-code-should-be-testable)
-- [2.4 DRY your code](#2-4-DRY-your-code)
-- [2.5 Use more robust managers to manage application state, such as Redux](#2-5-Use-more-robust-managers-to-manage-application-state)
-- [2.6 Use defaultProps and propTypes](#2-6-Use-defaultProps-and-propTypes)
-- [2.7 File structure](#2-7-File-structure)
-- [2.8 Use stateful function-based components by starting to use React Hooks](#2-8-Use-stateful-function-based-components)</br>
+- [2.1 Keep component creation to a minimum](#21-keep-component-creation-to-a-minimum)</br>
+- [2.2 Use a linter](#22-use-a-linter)</br>
+- [2.3 The code should be testable](#23-the-code-should-be-testable)
+- [2.4 DRY your code](#24-dry-your-code)
+- [2.5 Use more robust managers to manage application state, such as Redux](#25-use-more-robust-managers-to-manage-application-state-such-as-redux)
+- [2.6 Use defaultProps and propTypes](#26-use-defaultprops-and-proptypes)
+- [2.7 File structure](#27-file-structure)
+- [2.8 Use stateful function-based components by starting to use React Hooks](#28-use-stateful-function-based-components-by-starting-to-use-react-hooks)</br>
 
 </details>
 
